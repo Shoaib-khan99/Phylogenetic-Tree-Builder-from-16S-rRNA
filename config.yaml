@@ -1,0 +1,7 @@
+# User-editable config
+silva_release: "138.1"
+taxonomy_levels: 7
+min_length: 1200
+max_length: 1600
+sample_size: 100  # number of random sequences
+seed: 42
