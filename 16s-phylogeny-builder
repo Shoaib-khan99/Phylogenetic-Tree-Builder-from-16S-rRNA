@@ -1,0 +1,17 @@
+16s-phylogeny-builder/
+├── README.md
+├── environment.yml
+├── requirements.txt
+├── data/
+│   ├── download_silva.sh
+│   └── sample_ids.txt
+├── align/
+│   └── run_mafft.sh
+├── tree/
+│   ├── build_nj.py
+│   └── build_ml.py
+├── visualize/
+│   └── plot_tree.py
+├── results/
+├── run_all.sh
+└── config.yaml
